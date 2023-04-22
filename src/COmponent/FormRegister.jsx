@@ -4,6 +4,7 @@ const FormRegister = () => {
   return (
     <div>
       formRegister
+      test_git
     </div>
   )
 }
