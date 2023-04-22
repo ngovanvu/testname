@@ -1,9 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-
+import FormRegister from './COmponent/FormRegister';
 function App() {
   return (
+    
     <div className="App">
+          <FormRegister/>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -19,6 +21,7 @@ function App() {
           Card project
         </a>
       </header>
+
     </div>
   );
 }
