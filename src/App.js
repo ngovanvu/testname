@@ -19,7 +19,8 @@ function App() {
         >
           Learn React 
           Card project
-asjdklasjdlkasjd
+asjdklasjdlkasjasd
+fuck
         </a>
       </header>
 
