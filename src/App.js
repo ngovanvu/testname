@@ -19,7 +19,7 @@ function App() {
         >
           Learn React 
           Card project
-          Tesst Git
+
         </a>
       </header>
 
